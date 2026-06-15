@@ -1,0 +1,2 @@
+-- OLAP Queries - Análises analíticas
+-- Queries para BI e relatórios

@@ -1,0 +1,2 @@
+-- DDL - Criar Schema e Tabelas
+-- Star Schema para análise de vendas
