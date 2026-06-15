@@ -13,7 +13,7 @@ Dependências:
 
 import subprocess
 import sys
-from packaging import version
+from packaging import version # pyright: ignore[reportMissingImports]
 
 def verificar_versao_python():
     """Verifica se a versão do Python é 3.10 ou superior"""
