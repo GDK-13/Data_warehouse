@@ -1,0 +1,13 @@
+regiao,categoria,meta_vendas,meta_lucro,ano_referencia
+Central,Furniture,85000,12000,2014
+East,Furniture,120000,18000,2014
+South,Furniture,65000,9500,2014
+West,Furniture,140000,21000,2014
+Central,Office Supplies,95000,14000,2014
+East,Office Supplies,135000,20000,2014
+South,Office Supplies,72000,10800,2014
+West,Office Supplies,160000,24000,2014
+Central,Technology,110000,16500,2014
+East,Technology,145000,21750,2014
+South,Technology,88000,13200,2014
+West,Technology,175000,26250,2014
